@@ -3,6 +3,16 @@
  "updated": "2026-11-04",
  "comps": [
   {
+   "name": "FinalRep ASIAS 26",
+   "fed": "intl",
+   "start": "2026-11-06",
+   "end": "2026-11-08",
+   "city": "Singapour",
+   "country": "SG",
+   "url": "https://www.streetliftings.fr/competions-street-lifting/finalrep-asias-2026/",
+   "inscription": "Inscription via l'app FinalRep : https://app.final-rep.com/"
+  },
+  {
    "osl": "belgian-streetlifting-championship-2026",
    "name": "Belgian Streetlifting Championship",
    "fed": "intl",
@@ -11,7 +21,14 @@
    "country": "BE",
    "url": "https://openstreetlifting.org/competitions/belgian-streetlifting-championship-2026",
    "city": "Auderghem",
-   "venue": "Club Akuma 2.0"
+   "venue": "Club Akuma 2.0",
+   "news": [
+    {
+     "d": "2026-11-04",
+     "t": "Compétition aussi listée au calendrier de Streetliftings.fr (Auderghem, 14-15 novembre).",
+     "u": "https://www.streetliftings.fr/competions-street-lifting/belgian-streetlifting-championships-2026/"
+    }
+   ]
   },
   {
    "osl": "streetlifting-nordic-2026",
@@ -24,6 +41,34 @@
    "city": "Nacka"
   },
   {
+   "name": "Czech Nationals & Eastern European Championships",
+   "fed": "intl",
+   "start": "2026-11-21",
+   "end": "2026-11-22",
+   "city": "Brno",
+   "country": "CZ",
+   "url": "https://www.streetliftings.fr/competions-street-lifting/czech-nationals-eastern-european-championships-2026/"
+  },
+  {
+   "name": "FinalRep AMERICAS 26",
+   "fed": "intl",
+   "start": "2026-11-21",
+   "end": "2026-11-22",
+   "city": "Divinópolis",
+   "country": "BR",
+   "url": "https://www.streetliftings.fr/competions-street-lifting/finalrep-americas-2026/",
+   "inscription": "Inscription via l'app FinalRep : https://app.final-rep.com/"
+  },
+  {
+   "name": "Balkan Championship",
+   "fed": "intl",
+   "start": "2026-11-28",
+   "end": "2026-11-29",
+   "city": "Kranj",
+   "country": "SI",
+   "url": "https://www.streetliftings.fr/competions-street-lifting/balkan-championship-2026/"
+  },
+  {
    "name": "FNSL MU/DIPS ONLY",
    "fed": "fnsl",
    "start": "2026-12-05",
@@ -31,6 +76,16 @@
    "city": "Tremblay-en-France",
    "country": "FR",
    "url": "https://fnsl.fr/competitions"
+  },
+  {
+   "name": "OSL 3 - UK",
+   "fed": "intl",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "country": "GB",
+   "url": "https://www.officialstreetlifting.com/competitions",
+   "schedule": "Samedi 5 décembre 2026, 16h00 à 20h00 (horaires indiqués par l'organisateur).",
+   "scheduleU": "https://www.officialstreetlifting.com/competitions"
   },
   {
    "name": "FNSL PU/SQUAT ONLY",
