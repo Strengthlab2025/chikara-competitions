@@ -1,1 +1,292 @@
-{"v":1,"updated":"2026-11-03","comps":[]}
+{
+ "v": 1,
+ "updated": "2026-11-04",
+ "comps": [
+  {
+   "osl": "belgian-streetlifting-championship-2026",
+   "name": "Belgian Streetlifting Championship",
+   "fed": "intl",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "country": "BE",
+   "url": "https://openstreetlifting.org/competitions/belgian-streetlifting-championship-2026",
+   "city": "Auderghem",
+   "venue": "Club Akuma 2.0"
+  },
+  {
+   "osl": "streetlifting-nordic-2026",
+   "name": "Streetlifting Nordic",
+   "fed": "intl",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "country": "SE",
+   "url": "https://openstreetlifting.org/competitions/streetlifting-nordic-2026",
+   "city": "Nacka"
+  },
+  {
+   "name": "FNSL MU/DIPS ONLY",
+   "fed": "fnsl",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "city": "Tremblay-en-France",
+   "country": "FR",
+   "url": "https://fnsl.fr/competitions"
+  },
+  {
+   "name": "FNSL PU/SQUAT ONLY",
+   "fed": "fnsl",
+   "start": "2026-12-06",
+   "end": "2026-12-06",
+   "city": "Tremblay-en-France",
+   "country": "FR",
+   "url": "https://fnsl.fr/competitions"
+  },
+  {
+   "osl": "fnsl-regionale-auvergne-rhone-alpes-2027",
+   "name": "FNSL Régionale Auvergne-Rhône-Alpes",
+   "fed": "fnsl",
+   "start": "2027-01-09",
+   "end": "2027-01-10",
+   "country": "FR",
+   "url": "https://fnsl.fr/competitions",
+   "city": "Lyon"
+  },
+  {
+   "osl": "fnsl-regionale-paca-corse-2027",
+   "name": "FNSL Régionale PACA-Corse",
+   "fed": "fnsl",
+   "start": "2027-01-16",
+   "end": "2027-01-17",
+   "country": "FR",
+   "url": "https://fnsl.fr/competitions",
+   "city": "Marseille"
+  },
+  {
+   "osl": "fnsl-regionale-reunion-mayotte-pacifique-2027",
+   "name": "FNSL Régionale Réunion-Mayotte-Pacifique",
+   "fed": "fnsl",
+   "start": "2027-01-16",
+   "end": "2027-01-17",
+   "country": "FR",
+   "url": "https://fnsl.fr/competitions"
+  },
+  {
+   "osl": "fnsl-regionale-bretagne-normandie-2027",
+   "name": "FNSL Régionale Bretagne-Normandie",
+   "fed": "fnsl",
+   "start": "2027-01-23",
+   "end": "2027-01-24",
+   "country": "FR",
+   "url": "https://fnsl.fr/competitions"
+  },
+  {
+   "osl": "fnsl-regionale-bourgogne-franche-comte-2027",
+   "name": "FNSL Régionale Bourgogne-Franche-Comté",
+   "fed": "fnsl",
+   "start": "2027-01-30",
+   "end": "2027-01-31",
+   "country": "FR",
+   "url": "https://fnsl.fr/competitions"
+  },
+  {
+   "osl": "fnsl-regionale-pays-de-la-loire-2027",
+   "name": "FNSL Régionale Pays de la Loire",
+   "fed": "fnsl",
+   "start": "2027-01-30",
+   "end": "2027-01-31",
+   "country": "FR",
+   "url": "https://fnsl.fr/competitions",
+   "city": "Nantes"
+  },
+  {
+   "osl": "fnsl-regionale-ile-de-france-centre-val-de-loire-2027",
+   "name": "FNSL Régionale Île-de-France-Centre-Val de Loire",
+   "fed": "fnsl",
+   "start": "2027-01-30",
+   "end": "2027-01-31",
+   "country": "FR",
+   "url": "https://fnsl.fr/competitions",
+   "city": "Paris"
+  },
+  {
+   "osl": "fnsl-regionale-grand-est-2027",
+   "name": "FNSL Régionale Grand Est",
+   "fed": "fnsl",
+   "start": "2027-02-06",
+   "end": "2027-02-07",
+   "country": "FR",
+   "url": "https://fnsl.fr/competitions",
+   "city": "Mulhouse"
+  },
+  {
+   "osl": "fnsl-regionale-hauts-de-france-2027",
+   "name": "FNSL Régionale Hauts-de-France",
+   "fed": "fnsl",
+   "start": "2027-02-06",
+   "end": "2027-02-07",
+   "country": "FR",
+   "url": "https://fnsl.fr/competitions",
+   "city": "Lille"
+  },
+  {
+   "osl": "fnsl-regionale-nouvelle-aquitaine-2027",
+   "name": "FNSL Régionale Nouvelle-Aquitaine",
+   "fed": "fnsl",
+   "start": "2027-02-13",
+   "end": "2027-02-14",
+   "country": "FR",
+   "url": "https://fnsl.fr/competitions",
+   "city": "Bordeaux"
+  },
+  {
+   "osl": "fnsl-regionale-antilles-guyane-spm-2027",
+   "name": "FNSL Régionale Antilles-Guyane-SPM",
+   "fed": "fnsl",
+   "start": "2027-02-20",
+   "end": "2027-02-21",
+   "country": "FR",
+   "url": "https://fnsl.fr/competitions"
+  },
+  {
+   "osl": "fnsl-regionale-occitanie-2027",
+   "name": "FNSL Régionale Occitanie",
+   "fed": "fnsl",
+   "start": "2027-02-20",
+   "end": "2027-02-21",
+   "country": "FR",
+   "url": "https://fnsl.fr/competitions",
+   "city": "Montpellier"
+  },
+  {
+   "osl": "fnsl-premiers-pas-2027",
+   "name": "FNSL Premiers Pas",
+   "fed": "fnsl",
+   "start": "2027-03-20",
+   "end": "2027-03-21",
+   "country": "FR",
+   "url": "https://fnsl.fr/competitions"
+  },
+  {
+   "osl": "fnsl-interregionale-sud-est-2027",
+   "name": "FNSL Interrégionale Sud-Est",
+   "fed": "fnsl",
+   "start": "2027-05-01",
+   "end": "2027-05-02",
+   "country": "FR",
+   "url": "https://fnsl.fr/competitions",
+   "city": "Lyon"
+  },
+  {
+   "osl": "fnsl-interregionale-grand-ouest-2027",
+   "name": "FNSL Interrégionale Grand Ouest",
+   "fed": "fnsl",
+   "start": "2027-05-08",
+   "end": "2027-05-09",
+   "country": "FR",
+   "url": "https://fnsl.fr/competitions",
+   "city": "Nantes"
+  },
+  {
+   "osl": "fnsl-interregionale-centre-2027",
+   "name": "FNSL Interrégionale Centre",
+   "fed": "fnsl",
+   "start": "2027-05-15",
+   "end": "2027-05-16",
+   "country": "FR",
+   "url": "https://fnsl.fr/competitions",
+   "city": "Tremblay"
+  },
+  {
+   "osl": "fnsl-interregionale-nord-est-2027",
+   "name": "FNSL Interrégionale Nord-Est",
+   "fed": "fnsl",
+   "start": "2027-05-22",
+   "end": "2027-05-23",
+   "country": "FR",
+   "url": "https://fnsl.fr/competitions",
+   "city": "Mulhouse"
+  },
+  {
+   "osl": "fnsl-interregionale-sud-ouest-2027",
+   "name": "FNSL Interrégionale Sud-Ouest",
+   "fed": "fnsl",
+   "start": "2027-05-29",
+   "end": "2027-05-30",
+   "country": "FR",
+   "url": "https://fnsl.fr/competitions",
+   "city": "Bordeaux"
+  },
+  {
+   "osl": "fnsl-elite-2027",
+   "name": "FNSL Élite",
+   "fed": "fnsl",
+   "start": "2027-06-12",
+   "end": "2027-06-13",
+   "country": "FR",
+   "url": "https://fnsl.fr/competitions"
+  },
+  {
+   "osl": "fnsl-master-2027",
+   "name": "FNSL Master",
+   "fed": "fnsl",
+   "start": "2027-09-18",
+   "end": "2027-09-19",
+   "country": "FR",
+   "url": "https://fnsl.fr/competitions"
+  },
+  {
+   "osl": "fnsl-nouvelle-generation-2027",
+   "name": "FNSL Nouvelle Génération",
+   "fed": "fnsl",
+   "start": "2027-11-06",
+   "end": "2027-11-07",
+   "country": "FR",
+   "url": "https://fnsl.fr/competitions"
+  },
+  {
+   "osl": "fnsl-4lift-2027",
+   "name": "FNSL 4Lift",
+   "fed": "fnsl",
+   "start": "2027-11-20",
+   "end": "2027-11-21",
+   "country": "FR",
+   "url": "https://fnsl.fr/competitions"
+  },
+  {
+   "osl": "fnsl-only-dips-2027",
+   "name": "FNSL Only Dips",
+   "fed": "fnsl",
+   "start": "2027-12-11",
+   "end": "2027-12-12",
+   "country": "FR",
+   "url": "https://fnsl.fr/competitions"
+  },
+  {
+   "osl": "fnsl-only-muscle-up-2027",
+   "name": "FNSL Only Muscle Up",
+   "fed": "fnsl",
+   "start": "2027-12-11",
+   "end": "2027-12-12",
+   "country": "FR",
+   "url": "https://fnsl.fr/competitions"
+  },
+  {
+   "osl": "fnsl-only-pull-up-2027",
+   "name": "FNSL Only Pull Up",
+   "fed": "fnsl",
+   "start": "2027-12-11",
+   "end": "2027-12-12",
+   "country": "FR",
+   "url": "https://fnsl.fr/competitions"
+  },
+  {
+   "osl": "fnsl-only-squat-2027",
+   "name": "FNSL Only Squat",
+   "fed": "fnsl",
+   "start": "2027-12-11",
+   "end": "2027-12-12",
+   "country": "FR",
+   "url": "https://fnsl.fr/competitions"
+  }
+ ]
+}
