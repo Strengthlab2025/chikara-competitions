@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-04",
+ "updated": "2026-11-05",
  "comps": [
   {
    "name": "FinalRep ASIAS 26",
@@ -9,8 +9,12 @@
    "end": "2026-11-08",
    "city": "Singapour",
    "country": "SG",
-   "url": "https://www.streetliftings.fr/competions-street-lifting/finalrep-asias-2026/",
-   "inscription": "Inscription via l'app FinalRep : https://app.final-rep.com/"
+   "url": "https://final-rep.com/asias26/",
+   "inscription": "Inscription via l'app FinalRep : https://app.final-rep.com/",
+   "price": "160 SGD",
+   "venue": "The Cage, 38 Jln Benaan Kapal, Singapour",
+   "regOpen": "2026-07-13",
+   "regClose": "2026-07-26"
   },
   {
    "osl": "belgian-streetlifting-championship-2026",
@@ -68,7 +72,10 @@
    "end": "2026-12-05",
    "city": "Tremblay-en-France",
    "country": "FR",
-   "url": "https://fnsl.fr/competitions"
+   "url": "https://fnsl.fr/competitions",
+   "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
+   "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
+   "conditionsU": "https://fnsl.fr/adhesion"
   },
   {
    "name": "OSL 3 - UK",
@@ -87,7 +94,10 @@
    "end": "2026-12-06",
    "city": "Tremblay-en-France",
    "country": "FR",
-   "url": "https://fnsl.fr/competitions"
+   "url": "https://fnsl.fr/competitions",
+   "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
+   "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
+   "conditionsU": "https://fnsl.fr/adhesion"
   },
   {
    "osl": "fnsl-regionale-auvergne-rhone-alpes-2027",
@@ -97,7 +107,10 @@
    "end": "2027-01-10",
    "country": "FR",
    "url": "https://fnsl.fr/competitions",
-   "city": "Lyon"
+   "city": "Lyon",
+   "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
+   "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
+   "conditionsU": "https://fnsl.fr/adhesion"
   },
   {
    "osl": "fnsl-regionale-paca-corse-2027",
@@ -107,7 +120,10 @@
    "end": "2027-01-17",
    "country": "FR",
    "url": "https://fnsl.fr/competitions",
-   "city": "Marseille"
+   "city": "Marseille",
+   "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
+   "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
+   "conditionsU": "https://fnsl.fr/adhesion"
   },
   {
    "osl": "fnsl-regionale-reunion-mayotte-pacifique-2027",
@@ -116,7 +132,10 @@
    "start": "2027-01-16",
    "end": "2027-01-17",
    "country": "FR",
-   "url": "https://fnsl.fr/competitions"
+   "url": "https://fnsl.fr/competitions",
+   "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
+   "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
+   "conditionsU": "https://fnsl.fr/adhesion"
   },
   {
    "osl": "fnsl-regionale-bretagne-normandie-2027",
@@ -125,7 +144,10 @@
    "start": "2027-01-23",
    "end": "2027-01-24",
    "country": "FR",
-   "url": "https://fnsl.fr/competitions"
+   "url": "https://fnsl.fr/competitions",
+   "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
+   "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
+   "conditionsU": "https://fnsl.fr/adhesion"
   },
   {
    "osl": "fnsl-regionale-bourgogne-franche-comte-2027",
@@ -134,7 +156,10 @@
    "start": "2027-01-30",
    "end": "2027-01-31",
    "country": "FR",
-   "url": "https://fnsl.fr/competitions"
+   "url": "https://fnsl.fr/competitions",
+   "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
+   "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
+   "conditionsU": "https://fnsl.fr/adhesion"
   },
   {
    "osl": "fnsl-regionale-pays-de-la-loire-2027",
@@ -144,7 +169,10 @@
    "end": "2027-01-31",
    "country": "FR",
    "url": "https://fnsl.fr/competitions",
-   "city": "Nantes"
+   "city": "Nantes",
+   "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
+   "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
+   "conditionsU": "https://fnsl.fr/adhesion"
   },
   {
    "osl": "fnsl-regionale-ile-de-france-centre-val-de-loire-2027",
@@ -154,7 +182,10 @@
    "end": "2027-01-31",
    "country": "FR",
    "url": "https://fnsl.fr/competitions",
-   "city": "Paris"
+   "city": "Paris",
+   "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
+   "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
+   "conditionsU": "https://fnsl.fr/adhesion"
   },
   {
    "osl": "fnsl-regionale-grand-est-2027",
@@ -164,7 +195,10 @@
    "end": "2027-02-07",
    "country": "FR",
    "url": "https://fnsl.fr/competitions",
-   "city": "Mulhouse"
+   "city": "Mulhouse",
+   "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
+   "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
+   "conditionsU": "https://fnsl.fr/adhesion"
   },
   {
    "osl": "fnsl-regionale-hauts-de-france-2027",
@@ -174,7 +208,10 @@
    "end": "2027-02-07",
    "country": "FR",
    "url": "https://fnsl.fr/competitions",
-   "city": "Lille"
+   "city": "Lille",
+   "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
+   "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
+   "conditionsU": "https://fnsl.fr/adhesion"
   },
   {
    "osl": "fnsl-regionale-nouvelle-aquitaine-2027",
@@ -184,7 +221,10 @@
    "end": "2027-02-14",
    "country": "FR",
    "url": "https://fnsl.fr/competitions",
-   "city": "Bordeaux"
+   "city": "Bordeaux",
+   "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
+   "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
+   "conditionsU": "https://fnsl.fr/adhesion"
   },
   {
    "osl": "fnsl-regionale-antilles-guyane-spm-2027",
@@ -193,7 +233,10 @@
    "start": "2027-02-20",
    "end": "2027-02-21",
    "country": "FR",
-   "url": "https://fnsl.fr/competitions"
+   "url": "https://fnsl.fr/competitions",
+   "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
+   "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
+   "conditionsU": "https://fnsl.fr/adhesion"
   },
   {
    "osl": "fnsl-regionale-occitanie-2027",
@@ -203,7 +246,10 @@
    "end": "2027-02-21",
    "country": "FR",
    "url": "https://fnsl.fr/competitions",
-   "city": "Montpellier"
+   "city": "Montpellier",
+   "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
+   "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
+   "conditionsU": "https://fnsl.fr/adhesion"
   },
   {
    "osl": "fnsl-premiers-pas-2027",
@@ -212,7 +258,10 @@
    "start": "2027-03-20",
    "end": "2027-03-21",
    "country": "FR",
-   "url": "https://fnsl.fr/competitions"
+   "url": "https://fnsl.fr/competitions",
+   "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
+   "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
+   "conditionsU": "https://fnsl.fr/adhesion"
   },
   {
    "osl": "fnsl-interregionale-sud-est-2027",
@@ -222,7 +271,10 @@
    "end": "2027-05-02",
    "country": "FR",
    "url": "https://fnsl.fr/competitions",
-   "city": "Lyon"
+   "city": "Lyon",
+   "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
+   "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
+   "conditionsU": "https://fnsl.fr/adhesion"
   },
   {
    "osl": "fnsl-interregionale-grand-ouest-2027",
@@ -232,7 +284,10 @@
    "end": "2027-05-09",
    "country": "FR",
    "url": "https://fnsl.fr/competitions",
-   "city": "Nantes"
+   "city": "Nantes",
+   "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
+   "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
+   "conditionsU": "https://fnsl.fr/adhesion"
   },
   {
    "osl": "fnsl-interregionale-centre-2027",
@@ -242,7 +297,10 @@
    "end": "2027-05-16",
    "country": "FR",
    "url": "https://fnsl.fr/competitions",
-   "city": "Tremblay"
+   "city": "Tremblay",
+   "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
+   "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
+   "conditionsU": "https://fnsl.fr/adhesion"
   },
   {
    "osl": "fnsl-interregionale-nord-est-2027",
@@ -252,7 +310,10 @@
    "end": "2027-05-23",
    "country": "FR",
    "url": "https://fnsl.fr/competitions",
-   "city": "Mulhouse"
+   "city": "Mulhouse",
+   "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
+   "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
+   "conditionsU": "https://fnsl.fr/adhesion"
   },
   {
    "osl": "fnsl-interregionale-sud-ouest-2027",
@@ -262,7 +323,10 @@
    "end": "2027-05-30",
    "country": "FR",
    "url": "https://fnsl.fr/competitions",
-   "city": "Bordeaux"
+   "city": "Bordeaux",
+   "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
+   "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
+   "conditionsU": "https://fnsl.fr/adhesion"
   },
   {
    "osl": "fnsl-elite-2027",
@@ -271,7 +335,10 @@
    "start": "2027-06-12",
    "end": "2027-06-13",
    "country": "FR",
-   "url": "https://fnsl.fr/competitions"
+   "url": "https://fnsl.fr/competitions",
+   "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
+   "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
+   "conditionsU": "https://fnsl.fr/adhesion"
   },
   {
    "osl": "fnsl-master-2027",
@@ -280,7 +347,10 @@
    "start": "2027-09-18",
    "end": "2027-09-19",
    "country": "FR",
-   "url": "https://fnsl.fr/competitions"
+   "url": "https://fnsl.fr/competitions",
+   "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
+   "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
+   "conditionsU": "https://fnsl.fr/adhesion"
   },
   {
    "osl": "fnsl-nouvelle-generation-2027",
@@ -289,7 +359,10 @@
    "start": "2027-11-06",
    "end": "2027-11-07",
    "country": "FR",
-   "url": "https://fnsl.fr/competitions"
+   "url": "https://fnsl.fr/competitions",
+   "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
+   "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
+   "conditionsU": "https://fnsl.fr/adhesion"
   },
   {
    "osl": "fnsl-4lift-2027",
@@ -298,7 +371,10 @@
    "start": "2027-11-20",
    "end": "2027-11-21",
    "country": "FR",
-   "url": "https://fnsl.fr/competitions"
+   "url": "https://fnsl.fr/competitions",
+   "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
+   "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
+   "conditionsU": "https://fnsl.fr/adhesion"
   },
   {
    "osl": "fnsl-only-dips-2027",
@@ -307,7 +383,10 @@
    "start": "2027-12-11",
    "end": "2027-12-12",
    "country": "FR",
-   "url": "https://fnsl.fr/competitions"
+   "url": "https://fnsl.fr/competitions",
+   "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
+   "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
+   "conditionsU": "https://fnsl.fr/adhesion"
   },
   {
    "osl": "fnsl-only-muscle-up-2027",
@@ -316,7 +395,10 @@
    "start": "2027-12-11",
    "end": "2027-12-12",
    "country": "FR",
-   "url": "https://fnsl.fr/competitions"
+   "url": "https://fnsl.fr/competitions",
+   "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
+   "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
+   "conditionsU": "https://fnsl.fr/adhesion"
   },
   {
    "osl": "fnsl-only-pull-up-2027",
@@ -325,7 +407,10 @@
    "start": "2027-12-11",
    "end": "2027-12-12",
    "country": "FR",
-   "url": "https://fnsl.fr/competitions"
+   "url": "https://fnsl.fr/competitions",
+   "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
+   "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
+   "conditionsU": "https://fnsl.fr/adhesion"
   },
   {
    "osl": "fnsl-only-squat-2027",
@@ -334,7 +419,10 @@
    "start": "2027-12-11",
    "end": "2027-12-12",
    "country": "FR",
-   "url": "https://fnsl.fr/competitions"
+   "url": "https://fnsl.fr/competitions",
+   "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
+   "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
+   "conditionsU": "https://fnsl.fr/adhesion"
   }
  ]
 }
