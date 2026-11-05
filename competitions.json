@@ -9,12 +9,21 @@
    "end": "2026-11-08",
    "city": "Singapour",
    "country": "SG",
-   "url": "https://final-rep.com/asias26/",
-   "inscription": "Inscription via l'app FinalRep : https://app.final-rep.com/",
+   "url": "https://app.final-rep.com/",
+   "inscription": "Dans l’application FinalRep. Candidature du 13 au 26 juillet 2026, paiement du 20 juillet au 1er août 2026. Inscriptions terminées.",
    "price": "160 SGD",
    "venue": "The Cage, 38 Jln Benaan Kapal, Singapour",
    "regOpen": "2026-07-13",
-   "regClose": "2026-07-26"
+   "regClose": "2026-07-26",
+   "schedule": "Du vendredi au dimanche. Horaires pas encore publiés.",
+   "scheduleU": "https://final-rep.com/asias26/",
+   "conditions": "Sur qualification : les 7 meilleurs de chaque catégorie, avec un total valide sur une compétition qualificative, 2 places par pays et par catégorie au plus.",
+   "conditionsU": "https://final-rep.com/asias26/",
+   "rules": "Règlement FinalRep.",
+   "rulesU": "https://final-rep.com/rulebook/",
+   "weighInU": "https://final-rep.com/asias26/",
+   "results": "Résultats en direct dans l’application FinalRep (compte gratuit).",
+   "resultsU": "https://app.final-rep.com/"
   },
   {
    "osl": "belgian-streetlifting-championship-2026",
@@ -23,9 +32,13 @@
    "start": "2026-11-14",
    "end": "2026-11-15",
    "country": "BE",
-   "url": "https://openstreetlifting.org/competitions/belgian-streetlifting-championship-2026",
    "city": "Auderghem",
-   "venue": "Club Akuma 2.0"
+   "venue": "Club Akuma 2.0",
+   "clear": [
+    "url"
+   ],
+   "results": "Classement à retrouver après la compétition.",
+   "resultsU": "https://openstreetlifting.org/competitions/belgian-streetlifting-championship-2026"
   },
   {
    "osl": "streetlifting-nordic-2026",
@@ -34,8 +47,12 @@
    "start": "2026-11-14",
    "end": "2026-11-15",
    "country": "SE",
-   "url": "https://openstreetlifting.org/competitions/streetlifting-nordic-2026",
-   "city": "Nacka"
+   "city": "Nacka",
+   "clear": [
+    "url"
+   ],
+   "results": "Classement à retrouver après la compétition.",
+   "resultsU": "https://openstreetlifting.org/competitions/streetlifting-nordic-2026"
   },
   {
    "name": "Czech Nationals & Eastern European Championships",
@@ -44,7 +61,11 @@
    "end": "2026-11-22",
    "city": "Brno",
    "country": "CZ",
-   "url": "https://www.streetliftings.fr/competions-street-lifting/czech-nationals-eastern-european-championships-2026/"
+   "clear": [
+    "url"
+   ],
+   "results": "Classement à retrouver après la compétition.",
+   "resultsU": "https://www.streetliftings.fr/competions-street-lifting/czech-nationals-eastern-european-championships-2026/"
   },
   {
    "name": "FinalRep AMERICAS 26",
@@ -53,8 +74,21 @@
    "end": "2026-11-22",
    "city": "Divinópolis",
    "country": "BR",
-   "url": "https://www.streetliftings.fr/competions-street-lifting/finalrep-americas-2026/",
-   "inscription": "Inscription via l'app FinalRep : https://app.final-rep.com/"
+   "url": "https://app.final-rep.com/",
+   "inscription": "Dans l’application FinalRep. Candidature du 3 au 16 août 2026, paiement du 3 au 22 août 2026. Inscriptions terminées.",
+   "venue": "Kavera Cross, Av. Paraná 3471, Divinópolis (Brésil)",
+   "regOpen": "2026-08-03",
+   "regClose": "2026-08-16",
+   "schedule": "21 et 22 novembre, de 9 h à 18 h. Programme détaillé sur l’Instagram de l’événement.",
+   "scheduleU": "https://final-rep.com/americs26/",
+   "conditions": "Sur qualification : les 7 meilleurs de chaque catégorie, avec un total valide sur une compétition qualificative, 2 places par pays et par catégorie au plus.",
+   "conditionsU": "https://final-rep.com/americs26/",
+   "rules": "Règlement FinalRep.",
+   "rulesU": "https://final-rep.com/rulebook/",
+   "weighInU": "https://final-rep.com/americs26/",
+   "results": "Résultats en direct dans l’application FinalRep (compte gratuit).",
+   "resultsU": "https://app.final-rep.com/",
+   "price": "100 €"
   },
   {
    "name": "Balkan Championship",
@@ -63,7 +97,11 @@
    "end": "2026-11-29",
    "city": "Kranj",
    "country": "SI",
-   "url": "https://www.streetliftings.fr/competions-street-lifting/balkan-championship-2026/"
+   "clear": [
+    "url"
+   ],
+   "results": "Classement à retrouver après la compétition.",
+   "resultsU": "https://www.streetliftings.fr/competions-street-lifting/balkan-championship-2026/"
   },
   {
    "name": "FNSL MU/DIPS ONLY",
@@ -72,10 +110,13 @@
    "end": "2026-12-05",
    "city": "Tremblay-en-France",
    "country": "FR",
-   "url": "https://fnsl.fr/competitions",
+   "url": "https://app.final-rep.com/",
    "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
    "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
-   "conditionsU": "https://fnsl.fr/adhesion"
+   "conditionsU": "https://fnsl.fr/adhesion",
+   "inscription": "En général dans l’application FinalRep (compte gratuit). Dates pas encore publiées.",
+   "results": "En direct dans l’application FinalRep, puis sur OpenStreetlifting après la compétition.",
+   "resultsU": "https://app.final-rep.com/"
   },
   {
    "name": "OSL 3 - UK",
@@ -94,10 +135,13 @@
    "end": "2026-12-06",
    "city": "Tremblay-en-France",
    "country": "FR",
-   "url": "https://fnsl.fr/competitions",
+   "url": "https://app.final-rep.com/",
    "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
    "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
-   "conditionsU": "https://fnsl.fr/adhesion"
+   "conditionsU": "https://fnsl.fr/adhesion",
+   "inscription": "En général dans l’application FinalRep (compte gratuit). Dates pas encore publiées.",
+   "results": "En direct dans l’application FinalRep, puis sur OpenStreetlifting après la compétition.",
+   "resultsU": "https://app.final-rep.com/"
   },
   {
    "osl": "fnsl-regionale-auvergne-rhone-alpes-2027",
@@ -106,11 +150,14 @@
    "start": "2027-01-09",
    "end": "2027-01-10",
    "country": "FR",
-   "url": "https://fnsl.fr/competitions",
+   "url": "https://app.final-rep.com/",
    "city": "Lyon",
    "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
    "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
-   "conditionsU": "https://fnsl.fr/adhesion"
+   "conditionsU": "https://fnsl.fr/adhesion",
+   "inscription": "En général dans l’application FinalRep (compte gratuit). Dates pas encore publiées.",
+   "results": "En direct dans l’application FinalRep, puis sur OpenStreetlifting après la compétition.",
+   "resultsU": "https://app.final-rep.com/"
   },
   {
    "osl": "fnsl-regionale-paca-corse-2027",
@@ -119,11 +166,14 @@
    "start": "2027-01-16",
    "end": "2027-01-17",
    "country": "FR",
-   "url": "https://fnsl.fr/competitions",
+   "url": "https://app.final-rep.com/",
    "city": "Marseille",
    "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
    "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
-   "conditionsU": "https://fnsl.fr/adhesion"
+   "conditionsU": "https://fnsl.fr/adhesion",
+   "inscription": "En général dans l’application FinalRep (compte gratuit). Dates pas encore publiées.",
+   "results": "En direct dans l’application FinalRep, puis sur OpenStreetlifting après la compétition.",
+   "resultsU": "https://app.final-rep.com/"
   },
   {
    "osl": "fnsl-regionale-reunion-mayotte-pacifique-2027",
@@ -132,10 +182,13 @@
    "start": "2027-01-16",
    "end": "2027-01-17",
    "country": "FR",
-   "url": "https://fnsl.fr/competitions",
+   "url": "https://app.final-rep.com/",
    "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
    "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
-   "conditionsU": "https://fnsl.fr/adhesion"
+   "conditionsU": "https://fnsl.fr/adhesion",
+   "inscription": "En général dans l’application FinalRep (compte gratuit). Dates pas encore publiées.",
+   "results": "En direct dans l’application FinalRep, puis sur OpenStreetlifting après la compétition.",
+   "resultsU": "https://app.final-rep.com/"
   },
   {
    "osl": "fnsl-regionale-bretagne-normandie-2027",
@@ -144,10 +197,13 @@
    "start": "2027-01-23",
    "end": "2027-01-24",
    "country": "FR",
-   "url": "https://fnsl.fr/competitions",
+   "url": "https://app.final-rep.com/",
    "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
    "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
-   "conditionsU": "https://fnsl.fr/adhesion"
+   "conditionsU": "https://fnsl.fr/adhesion",
+   "inscription": "En général dans l’application FinalRep (compte gratuit). Dates pas encore publiées.",
+   "results": "En direct dans l’application FinalRep, puis sur OpenStreetlifting après la compétition.",
+   "resultsU": "https://app.final-rep.com/"
   },
   {
    "osl": "fnsl-regionale-bourgogne-franche-comte-2027",
@@ -156,10 +212,13 @@
    "start": "2027-01-30",
    "end": "2027-01-31",
    "country": "FR",
-   "url": "https://fnsl.fr/competitions",
+   "url": "https://app.final-rep.com/",
    "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
    "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
-   "conditionsU": "https://fnsl.fr/adhesion"
+   "conditionsU": "https://fnsl.fr/adhesion",
+   "inscription": "En général dans l’application FinalRep (compte gratuit). Dates pas encore publiées.",
+   "results": "En direct dans l’application FinalRep, puis sur OpenStreetlifting après la compétition.",
+   "resultsU": "https://app.final-rep.com/"
   },
   {
    "osl": "fnsl-regionale-pays-de-la-loire-2027",
@@ -168,11 +227,14 @@
    "start": "2027-01-30",
    "end": "2027-01-31",
    "country": "FR",
-   "url": "https://fnsl.fr/competitions",
+   "url": "https://app.final-rep.com/",
    "city": "Nantes",
    "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
    "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
-   "conditionsU": "https://fnsl.fr/adhesion"
+   "conditionsU": "https://fnsl.fr/adhesion",
+   "inscription": "En général dans l’application FinalRep (compte gratuit). Dates pas encore publiées.",
+   "results": "En direct dans l’application FinalRep, puis sur OpenStreetlifting après la compétition.",
+   "resultsU": "https://app.final-rep.com/"
   },
   {
    "osl": "fnsl-regionale-ile-de-france-centre-val-de-loire-2027",
@@ -181,11 +243,14 @@
    "start": "2027-01-30",
    "end": "2027-01-31",
    "country": "FR",
-   "url": "https://fnsl.fr/competitions",
+   "url": "https://app.final-rep.com/",
    "city": "Paris",
    "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
    "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
-   "conditionsU": "https://fnsl.fr/adhesion"
+   "conditionsU": "https://fnsl.fr/adhesion",
+   "inscription": "En général dans l’application FinalRep (compte gratuit). Dates pas encore publiées.",
+   "results": "En direct dans l’application FinalRep, puis sur OpenStreetlifting après la compétition.",
+   "resultsU": "https://app.final-rep.com/"
   },
   {
    "osl": "fnsl-regionale-grand-est-2027",
@@ -194,11 +259,14 @@
    "start": "2027-02-06",
    "end": "2027-02-07",
    "country": "FR",
-   "url": "https://fnsl.fr/competitions",
+   "url": "https://app.final-rep.com/",
    "city": "Mulhouse",
    "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
    "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
-   "conditionsU": "https://fnsl.fr/adhesion"
+   "conditionsU": "https://fnsl.fr/adhesion",
+   "inscription": "En général dans l’application FinalRep (compte gratuit). Dates pas encore publiées.",
+   "results": "En direct dans l’application FinalRep, puis sur OpenStreetlifting après la compétition.",
+   "resultsU": "https://app.final-rep.com/"
   },
   {
    "osl": "fnsl-regionale-hauts-de-france-2027",
@@ -207,11 +275,14 @@
    "start": "2027-02-06",
    "end": "2027-02-07",
    "country": "FR",
-   "url": "https://fnsl.fr/competitions",
+   "url": "https://app.final-rep.com/",
    "city": "Lille",
    "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
    "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
-   "conditionsU": "https://fnsl.fr/adhesion"
+   "conditionsU": "https://fnsl.fr/adhesion",
+   "inscription": "En général dans l’application FinalRep (compte gratuit). Dates pas encore publiées.",
+   "results": "En direct dans l’application FinalRep, puis sur OpenStreetlifting après la compétition.",
+   "resultsU": "https://app.final-rep.com/"
   },
   {
    "osl": "fnsl-regionale-nouvelle-aquitaine-2027",
@@ -220,11 +291,14 @@
    "start": "2027-02-13",
    "end": "2027-02-14",
    "country": "FR",
-   "url": "https://fnsl.fr/competitions",
+   "url": "https://app.final-rep.com/",
    "city": "Bordeaux",
    "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
    "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
-   "conditionsU": "https://fnsl.fr/adhesion"
+   "conditionsU": "https://fnsl.fr/adhesion",
+   "inscription": "En général dans l’application FinalRep (compte gratuit). Dates pas encore publiées.",
+   "results": "En direct dans l’application FinalRep, puis sur OpenStreetlifting après la compétition.",
+   "resultsU": "https://app.final-rep.com/"
   },
   {
    "osl": "fnsl-regionale-antilles-guyane-spm-2027",
@@ -233,10 +307,13 @@
    "start": "2027-02-20",
    "end": "2027-02-21",
    "country": "FR",
-   "url": "https://fnsl.fr/competitions",
+   "url": "https://app.final-rep.com/",
    "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
    "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
-   "conditionsU": "https://fnsl.fr/adhesion"
+   "conditionsU": "https://fnsl.fr/adhesion",
+   "inscription": "En général dans l’application FinalRep (compte gratuit). Dates pas encore publiées.",
+   "results": "En direct dans l’application FinalRep, puis sur OpenStreetlifting après la compétition.",
+   "resultsU": "https://app.final-rep.com/"
   },
   {
    "osl": "fnsl-regionale-occitanie-2027",
@@ -245,11 +322,14 @@
    "start": "2027-02-20",
    "end": "2027-02-21",
    "country": "FR",
-   "url": "https://fnsl.fr/competitions",
+   "url": "https://app.final-rep.com/",
    "city": "Montpellier",
    "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
    "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
-   "conditionsU": "https://fnsl.fr/adhesion"
+   "conditionsU": "https://fnsl.fr/adhesion",
+   "inscription": "En général dans l’application FinalRep (compte gratuit). Dates pas encore publiées.",
+   "results": "En direct dans l’application FinalRep, puis sur OpenStreetlifting après la compétition.",
+   "resultsU": "https://app.final-rep.com/"
   },
   {
    "osl": "fnsl-premiers-pas-2027",
@@ -258,10 +338,13 @@
    "start": "2027-03-20",
    "end": "2027-03-21",
    "country": "FR",
-   "url": "https://fnsl.fr/competitions",
+   "url": "https://app.final-rep.com/",
    "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
    "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
-   "conditionsU": "https://fnsl.fr/adhesion"
+   "conditionsU": "https://fnsl.fr/adhesion",
+   "inscription": "En général dans l’application FinalRep (compte gratuit). Dates pas encore publiées.",
+   "results": "En direct dans l’application FinalRep, puis sur OpenStreetlifting après la compétition.",
+   "resultsU": "https://app.final-rep.com/"
   },
   {
    "osl": "fnsl-interregionale-sud-est-2027",
@@ -270,11 +353,14 @@
    "start": "2027-05-01",
    "end": "2027-05-02",
    "country": "FR",
-   "url": "https://fnsl.fr/competitions",
+   "url": "https://app.final-rep.com/",
    "city": "Lyon",
    "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
    "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
-   "conditionsU": "https://fnsl.fr/adhesion"
+   "conditionsU": "https://fnsl.fr/adhesion",
+   "inscription": "En général dans l’application FinalRep (compte gratuit). Dates pas encore publiées.",
+   "results": "En direct dans l’application FinalRep, puis sur OpenStreetlifting après la compétition.",
+   "resultsU": "https://app.final-rep.com/"
   },
   {
    "osl": "fnsl-interregionale-grand-ouest-2027",
@@ -283,11 +369,14 @@
    "start": "2027-05-08",
    "end": "2027-05-09",
    "country": "FR",
-   "url": "https://fnsl.fr/competitions",
+   "url": "https://app.final-rep.com/",
    "city": "Nantes",
    "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
    "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
-   "conditionsU": "https://fnsl.fr/adhesion"
+   "conditionsU": "https://fnsl.fr/adhesion",
+   "inscription": "En général dans l’application FinalRep (compte gratuit). Dates pas encore publiées.",
+   "results": "En direct dans l’application FinalRep, puis sur OpenStreetlifting après la compétition.",
+   "resultsU": "https://app.final-rep.com/"
   },
   {
    "osl": "fnsl-interregionale-centre-2027",
@@ -296,11 +385,14 @@
    "start": "2027-05-15",
    "end": "2027-05-16",
    "country": "FR",
-   "url": "https://fnsl.fr/competitions",
+   "url": "https://app.final-rep.com/",
    "city": "Tremblay",
    "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
    "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
-   "conditionsU": "https://fnsl.fr/adhesion"
+   "conditionsU": "https://fnsl.fr/adhesion",
+   "inscription": "En général dans l’application FinalRep (compte gratuit). Dates pas encore publiées.",
+   "results": "En direct dans l’application FinalRep, puis sur OpenStreetlifting après la compétition.",
+   "resultsU": "https://app.final-rep.com/"
   },
   {
    "osl": "fnsl-interregionale-nord-est-2027",
@@ -309,11 +401,14 @@
    "start": "2027-05-22",
    "end": "2027-05-23",
    "country": "FR",
-   "url": "https://fnsl.fr/competitions",
+   "url": "https://app.final-rep.com/",
    "city": "Mulhouse",
    "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
    "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
-   "conditionsU": "https://fnsl.fr/adhesion"
+   "conditionsU": "https://fnsl.fr/adhesion",
+   "inscription": "En général dans l’application FinalRep (compte gratuit). Dates pas encore publiées.",
+   "results": "En direct dans l’application FinalRep, puis sur OpenStreetlifting après la compétition.",
+   "resultsU": "https://app.final-rep.com/"
   },
   {
    "osl": "fnsl-interregionale-sud-ouest-2027",
@@ -322,11 +417,14 @@
    "start": "2027-05-29",
    "end": "2027-05-30",
    "country": "FR",
-   "url": "https://fnsl.fr/competitions",
+   "url": "https://app.final-rep.com/",
    "city": "Bordeaux",
    "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
    "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
-   "conditionsU": "https://fnsl.fr/adhesion"
+   "conditionsU": "https://fnsl.fr/adhesion",
+   "inscription": "En général dans l’application FinalRep (compte gratuit). Dates pas encore publiées.",
+   "results": "En direct dans l’application FinalRep, puis sur OpenStreetlifting après la compétition.",
+   "resultsU": "https://app.final-rep.com/"
   },
   {
    "osl": "fnsl-elite-2027",
@@ -335,10 +433,13 @@
    "start": "2027-06-12",
    "end": "2027-06-13",
    "country": "FR",
-   "url": "https://fnsl.fr/competitions",
+   "url": "https://app.final-rep.com/",
    "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
    "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
-   "conditionsU": "https://fnsl.fr/adhesion"
+   "conditionsU": "https://fnsl.fr/adhesion",
+   "inscription": "En général dans l’application FinalRep (compte gratuit). Dates pas encore publiées.",
+   "results": "En direct dans l’application FinalRep, puis sur OpenStreetlifting après la compétition.",
+   "resultsU": "https://app.final-rep.com/"
   },
   {
    "osl": "fnsl-master-2027",
@@ -347,10 +448,13 @@
    "start": "2027-09-18",
    "end": "2027-09-19",
    "country": "FR",
-   "url": "https://fnsl.fr/competitions",
+   "url": "https://app.final-rep.com/",
    "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
    "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
-   "conditionsU": "https://fnsl.fr/adhesion"
+   "conditionsU": "https://fnsl.fr/adhesion",
+   "inscription": "En général dans l’application FinalRep (compte gratuit). Dates pas encore publiées.",
+   "results": "En direct dans l’application FinalRep, puis sur OpenStreetlifting après la compétition.",
+   "resultsU": "https://app.final-rep.com/"
   },
   {
    "osl": "fnsl-nouvelle-generation-2027",
@@ -359,10 +463,13 @@
    "start": "2027-11-06",
    "end": "2027-11-07",
    "country": "FR",
-   "url": "https://fnsl.fr/competitions",
+   "url": "https://app.final-rep.com/",
    "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
    "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
-   "conditionsU": "https://fnsl.fr/adhesion"
+   "conditionsU": "https://fnsl.fr/adhesion",
+   "inscription": "En général dans l’application FinalRep (compte gratuit). Dates pas encore publiées.",
+   "results": "En direct dans l’application FinalRep, puis sur OpenStreetlifting après la compétition.",
+   "resultsU": "https://app.final-rep.com/"
   },
   {
    "osl": "fnsl-4lift-2027",
@@ -371,10 +478,13 @@
    "start": "2027-11-20",
    "end": "2027-11-21",
    "country": "FR",
-   "url": "https://fnsl.fr/competitions",
+   "url": "https://app.final-rep.com/",
    "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
    "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
-   "conditionsU": "https://fnsl.fr/adhesion"
+   "conditionsU": "https://fnsl.fr/adhesion",
+   "inscription": "En général dans l’application FinalRep (compte gratuit). Dates pas encore publiées.",
+   "results": "En direct dans l’application FinalRep, puis sur OpenStreetlifting après la compétition.",
+   "resultsU": "https://app.final-rep.com/"
   },
   {
    "osl": "fnsl-only-dips-2027",
@@ -383,10 +493,13 @@
    "start": "2027-12-11",
    "end": "2027-12-12",
    "country": "FR",
-   "url": "https://fnsl.fr/competitions",
+   "url": "https://app.final-rep.com/",
    "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
    "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
-   "conditionsU": "https://fnsl.fr/adhesion"
+   "conditionsU": "https://fnsl.fr/adhesion",
+   "inscription": "En général dans l’application FinalRep (compte gratuit). Dates pas encore publiées.",
+   "results": "En direct dans l’application FinalRep, puis sur OpenStreetlifting après la compétition.",
+   "resultsU": "https://app.final-rep.com/"
   },
   {
    "osl": "fnsl-only-muscle-up-2027",
@@ -395,10 +508,13 @@
    "start": "2027-12-11",
    "end": "2027-12-12",
    "country": "FR",
-   "url": "https://fnsl.fr/competitions",
+   "url": "https://app.final-rep.com/",
    "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
    "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
-   "conditionsU": "https://fnsl.fr/adhesion"
+   "conditionsU": "https://fnsl.fr/adhesion",
+   "inscription": "En général dans l’application FinalRep (compte gratuit). Dates pas encore publiées.",
+   "results": "En direct dans l’application FinalRep, puis sur OpenStreetlifting après la compétition.",
+   "resultsU": "https://app.final-rep.com/"
   },
   {
    "osl": "fnsl-only-pull-up-2027",
@@ -407,10 +523,13 @@
    "start": "2027-12-11",
    "end": "2027-12-12",
    "country": "FR",
-   "url": "https://fnsl.fr/competitions",
+   "url": "https://app.final-rep.com/",
    "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
    "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
-   "conditionsU": "https://fnsl.fr/adhesion"
+   "conditionsU": "https://fnsl.fr/adhesion",
+   "inscription": "En général dans l’application FinalRep (compte gratuit). Dates pas encore publiées.",
+   "results": "En direct dans l’application FinalRep, puis sur OpenStreetlifting après la compétition.",
+   "resultsU": "https://app.final-rep.com/"
   },
   {
    "osl": "fnsl-only-squat-2027",
@@ -419,10 +538,13 @@
    "start": "2027-12-11",
    "end": "2027-12-12",
    "country": "FR",
-   "url": "https://fnsl.fr/competitions",
+   "url": "https://app.final-rep.com/",
    "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
    "conditions": "L'adhésion athlète FNSL donne accès à toutes les compétitions FNSL, sous réserve de qualification.",
-   "conditionsU": "https://fnsl.fr/adhesion"
+   "conditionsU": "https://fnsl.fr/adhesion",
+   "inscription": "En général dans l’application FinalRep (compte gratuit). Dates pas encore publiées.",
+   "results": "En direct dans l’application FinalRep, puis sur OpenStreetlifting après la compétition.",
+   "resultsU": "https://app.final-rep.com/"
   }
  ]
 }
