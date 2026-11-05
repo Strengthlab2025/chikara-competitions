@@ -108,6 +108,21 @@
    "price": "100 €"
   },
   {
+   "name": "4LIFT x FNSL 2026 – Plateau Open",
+   "fed": "open",
+   "start": "2026-11-21",
+   "end": "2026-11-22",
+   "city": "Lyon",
+   "country": "FR",
+   "url": "https://www.helloasso.com/associations/annecy-street-event/evenements/4lift-2026-plateau-open",
+   "price": "80 €",
+   "inscription": "Sur HelloAsso, inscription obligatoire, places limitées. Au 5 novembre : Open Homme complet, Open Femme encore disponible. Billets non remboursables depuis le 11 septembre.",
+   "schedule": "21 et 22 novembre, de 8 h 30 à 19 h.",
+   "scheduleU": "https://www.helloasso.com/associations/annecy-street-event/evenements/4lift-2026-plateau-open",
+   "conditions": "Ouvert à tous les niveaux. Organisé par Annecy Street Event, en partenariat avec la FNSL.",
+   "conditionsU": "https://www.streetliftings.fr/fusion-4lift-fnsl/"
+  },
+  {
    "name": "Balkan Championship",
    "regState": "closed",
    "fed": "intl",
