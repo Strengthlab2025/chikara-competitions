@@ -40,8 +40,8 @@
    "results": "Classement à retrouver après la compétition.",
    "resultsU": "https://openstreetlifting.org/competitions/belgian-streetlifting-championship-2026",
    "regClose": "2026-07-31",
-   "inscription": "Inscriptions fermées le 31 juillet, sur le formulaire du compte Instagram @bslc._. Liste des qualifiés publiée le 11 août.",
-   "conditions": "Les athlètes des compétitions régionales sont prioritaires.",
+   "inscription": "Formulaire dans la présentation du compte Instagram @bslc._, à remplir par tous.",
+   "conditions": "Les athlètes passés par les compétitions régionales sont prioritaires. Si la catégorie est complète : liste d’attente.",
    "conditionsU": "https://www.instagram.com/bslc._/p/DZ7C_OvDCqe/",
    "schedule": "Ordre de passage publié sur Instagram le 11 octobre.",
    "scheduleU": "https://www.instagram.com/bslc._/p/DeXtH_ijLVe/",
@@ -60,7 +60,9 @@
     "url"
    ],
    "results": "Classement à retrouver après la compétition.",
-   "resultsU": "https://openstreetlifting.org/competitions/streetlifting-nordic-2026"
+   "resultsU": "https://openstreetlifting.org/competitions/streetlifting-nordic-2026",
+   "venue": "Nacka Strandsmässan, Stockholm",
+   "venueU": "https://www.instagram.com/streetlifting.nordic/p/DfMWk73In6A/"
   },
   {
    "name": "Czech Nationals & Eastern European Championships",
@@ -73,7 +75,12 @@
     "url"
    ],
    "results": "Classement à retrouver après la compétition.",
-   "resultsU": "https://www.streetliftings.fr/competions-street-lifting/czech-nationals-eastern-european-championships-2026/"
+   "resultsU": "https://www.streetliftings.fr/competions-street-lifting/czech-nationals-eastern-european-championships-2026/",
+   "venue": "Parc des expositions de Brno, festival Life!",
+   "regClose": "2026-11-01",
+   "inscription": "Sur GymSpace.pro, lien dans la présentation du compte Instagram @czechstreetlifting.",
+   "conditions": "Formats : All4, Pull & Dip. Pays invités pour le titre d’Europe de l’Est : Tchéquie, Slovaquie, Pologne, Hongrie, Ukraine, Lettonie, Lituanie, Estonie, Russie, Biélorussie. Les autres pays concourent seulement pour le classement général.",
+   "conditionsU": "https://www.instagram.com/czechstreetlifting/p/DcTicjXMspa/"
   },
   {
    "name": "FinalRep AMERICAS 26",
@@ -82,12 +89,12 @@
    "end": "2026-11-22",
    "city": "Divinópolis",
    "country": "BR",
-   "url": "https://app.final-rep.com/",
+   "url": "https://final-rep.com/americs26/",
    "inscription": "Dans l’application FinalRep. Candidature du 3 au 16 août 2026, paiement du 3 au 22 août 2026. Inscriptions terminées.",
-   "venue": "Kavera Cross, Av. Paraná 3471, Divinópolis (Brésil)",
+   "venue": "Kavera Cross, Av. Paraná 3471, Divinópolis",
    "regOpen": "2026-08-03",
    "regClose": "2026-08-16",
-   "schedule": "21 et 22 novembre, de 9 h à 18 h. Programme détaillé sur l’Instagram de l’événement.",
+   "schedule": "Compétition de 9 h à 18 h.",
    "scheduleU": "https://final-rep.com/americs26/",
    "conditions": "Sur qualification : les 7 meilleurs de chaque catégorie, avec un total valide sur une compétition qualificative, 2 places par pays et par catégorie au plus.",
    "conditionsU": "https://final-rep.com/americs26/",
@@ -109,7 +116,12 @@
     "url"
    ],
    "results": "Classement à retrouver après la compétition.",
-   "resultsU": "https://www.streetliftings.fr/competions-street-lifting/balkan-championship-2026/"
+   "resultsU": "https://www.streetliftings.fr/competions-street-lifting/balkan-championship-2026/",
+   "venue": "Mega center, Kranj",
+   "url": "https://www.instagram.com/streetworkoutslovenija/p/DbShMa5jDu3/",
+   "inscription": "Ouvertes le 24 août 2026. La liste des concurrents est publiée depuis le 4 novembre 2026.",
+   "conditions": "Règlement FinalRep. Pays : Slovénie, Croatie, Bosnie-Herzégovine, Serbie, Monténégro, Macédoine, Albanie, Bulgarie, Grèce, Roumanie, Turquie.",
+   "conditionsU": "https://www.instagram.com/streetworkoutslovenija/p/DbShMa5jDu3/"
   },
   {
    "name": "FNSL MU/DIPS ONLY",
@@ -132,9 +144,32 @@
    "start": "2026-12-05",
    "end": "2026-12-05",
    "country": "GB",
-   "url": "https://www.officialstreetlifting.com/competitions",
+   "url": "https://rankings.officialstreetlifting.com/competitions/osl-3-uk",
    "schedule": "Samedi 5 décembre 2026, 16h00 à 20h00 (horaires indiqués par l'organisateur).",
-   "scheduleU": "https://www.officialstreetlifting.com/competitions"
+   "scheduleU": "https://www.officialstreetlifting.com/competitions",
+   "price": "1 mouvement : 35 £ · 2 : 50 £ · 3 : 65 £ · All4 : 75 £",
+   "city": "Southampton",
+   "venue": "Winning Strength Southampton, 12 Park Street, Shirley",
+   "regClose": "2026-11-28",
+   "inscription": "Créer un compte OSL, puis s’inscrire sur la page de la compétition.",
+   "conditions": "Ouverte à tous les niveaux et à tous les pays. Un nouvel athlète commence en Division 3.",
+   "conditionsU": "https://www.officialstreetlifting.com/competitions/event-two-w7zrh-s4xbg-nypkl-8ptx2-4wbes-ks65y-epply",
+   "weighIn": "Vendredi 4 décembre de 16 h à 17 h, ou samedi 5 décembre de 14 h à 15 h.",
+   "weighInU": "https://www.officialstreetlifting.com/competitions/event-two-w7zrh-s4xbg-nypkl-8ptx2-4wbes-ks65y-epply"
+  },
+  {
+   "name": "BSLC Rookie",
+   "fed": "intl",
+   "start": "2026-12-05",
+   "end": "2026-12-06",
+   "city": "Auderghem",
+   "country": "BE",
+   "venue": "1682 Chaussée de Wavre, 1160 Auderghem",
+   "url": "https://www.instagram.com/club.akuma/p/Dd_qoq7jaRP/",
+   "price": "35 € (entrée du public : 2 €)",
+   "inscription": "Lien dans la présentation des comptes Instagram @akuma.community et @bslc._.",
+   "conditions": "Ouverte à ceux qui ne sont pas qualifiés pour les championnats de Belgique, aux débutants et aux anciens compétiteurs. Tout peut être regroupé le dimanche 6 décembre selon le nombre d’inscrits.",
+   "conditionsU": "https://www.instagram.com/club.akuma/p/Dd_qoq7jaRP/"
   },
   {
    "name": "FNSL PU/SQUAT ONLY",
