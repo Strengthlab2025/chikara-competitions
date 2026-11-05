@@ -62,7 +62,9 @@
    "results": "Classement à retrouver après la compétition.",
    "resultsU": "https://openstreetlifting.org/competitions/streetlifting-nordic-2026",
    "venue": "Nacka Strandsmässan, Stockholm",
-   "venueU": "https://www.instagram.com/streetlifting.nordic/p/DfMWk73In6A/"
+   "venueU": "https://www.instagram.com/streetlifting.nordic/p/DfMWk73In6A/",
+   "schedule": "Samedi 14 novembre : groupes 1 et 2 le matin (hommes -66, -94, -80, -87 kg), puis groupes 3 et 4 (femmes -63, -70 kg ; hommes -101, +101 kg). Dimanche 15 novembre : groupes 5 et 6 (femmes -57, +70, -52 kg ; hommes -73 kg).",
+   "scheduleU": "https://www.instagram.com/streetlifting.nordic/p/DeXgKBHCGg8/"
   },
   {
    "name": "Czech Nationals & Eastern European Championships",
@@ -106,7 +108,8 @@
    "price": "100 €"
   },
   {
-   "name": "Balkan Championship", "regState":"closed",
+   "name": "Balkan Championship",
+   "regState": "closed",
    "fed": "intl",
    "start": "2026-11-28",
    "end": "2026-11-29",
@@ -229,7 +232,8 @@
    "conditionsU": "https://fnsl.fr/reglement",
    "inscription": "1. Prendre l’adhésion FNSL. 2. Remplir le formulaire de qualification, avec vidéos, quand la FNSL l’annonce. Dates pas encore publiées.",
    "results": "En direct dans l’application FinalRep, puis sur OpenStreetlifting après la compétition.",
-   "resultsU": "https://app.final-rep.com/"
+   "resultsU": "https://app.final-rep.com/",
+   "city": "La Réunion"
   },
   {
    "osl": "fnsl-regionale-bretagne-normandie-2027",
@@ -335,7 +339,7 @@
    "url": "https://fnsl.fr/adhesion",
    "city": "Bordeaux",
    "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
-   "conditions": "Licence FNSL valide obligatoire pour l’année (adhésion athlète). Qualification sur formulaire et vidéos, selon les meilleurs totaux et les places de la catégorie.",
+   "conditions": "Licence FNSL valide obligatoire pour l’année (adhésion athlète). Qualification sur formulaire et vidéos, selon les meilleurs totaux et les places de la catégorie. Date provisoire selon la FNSL (annonce du 17 août 2026), à confirmer.",
    "conditionsU": "https://fnsl.fr/reglement",
    "inscription": "1. Prendre l’adhésion FNSL. 2. Remplir le formulaire de qualification, avec vidéos, quand la FNSL l’annonce. Dates pas encore publiées.",
    "results": "En direct dans l’application FinalRep, puis sur OpenStreetlifting après la compétition.",
@@ -350,7 +354,7 @@
    "country": "FR",
    "url": "https://fnsl.fr/adhesion",
    "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
-   "conditions": "Licence FNSL valide obligatoire pour l’année (adhésion athlète). Qualification sur formulaire et vidéos, selon les meilleurs totaux et les places de la catégorie.",
+   "conditions": "Licence FNSL valide obligatoire pour l’année (adhésion athlète). Qualification sur formulaire et vidéos, selon les meilleurs totaux et les places de la catégorie. Date provisoire selon la FNSL (annonce du 17 août 2026), à confirmer.",
    "conditionsU": "https://fnsl.fr/reglement",
    "inscription": "1. Prendre l’adhésion FNSL. 2. Remplir le formulaire de qualification, avec vidéos, quand la FNSL l’annonce. Dates pas encore publiées.",
    "results": "En direct dans l’application FinalRep, puis sur OpenStreetlifting après la compétition.",
@@ -366,11 +370,25 @@
    "url": "https://fnsl.fr/adhesion",
    "city": "Montpellier",
    "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
-   "conditions": "Licence FNSL valide obligatoire pour l’année (adhésion athlète). Qualification sur formulaire et vidéos, selon les meilleurs totaux et les places de la catégorie.",
+   "conditions": "Licence FNSL valide obligatoire pour l’année (adhésion athlète). Qualification sur formulaire et vidéos, selon les meilleurs totaux et les places de la catégorie. Date provisoire selon la FNSL (annonce du 17 août 2026), à confirmer.",
    "conditionsU": "https://fnsl.fr/reglement",
    "inscription": "1. Prendre l’adhésion FNSL. 2. Remplir le formulaire de qualification, avec vidéos, quand la FNSL l’annonce. Dates pas encore publiées.",
    "results": "En direct dans l’application FinalRep, puis sur OpenStreetlifting après la compétition.",
    "resultsU": "https://app.final-rep.com/"
+  },
+  {
+   "name": "OSL 4 - UK",
+   "fed": "intl",
+   "start": "2027-03-13",
+   "end": "2027-03-13",
+   "city": "Southampton",
+   "country": "GB",
+   "venue": "Winning Strength Southampton, 12 Park Street, Shirley",
+   "venueU": "https://www.instagram.com/official_streetlifting/reel/DblHMchsFlI/",
+   "conditions": "Ouverte à tous les pays. Au choix : 1, 2 ou 3 mouvements, ou All4.",
+   "conditionsU": "https://www.instagram.com/official_streetlifting/reel/DblHMchsFlI/",
+   "weighIn": "Deux choix : 24 h ou 2 h avant la compétition.",
+   "weighInU": "https://www.instagram.com/official_streetlifting/reel/DblHMchsFlI/"
   },
   {
    "osl": "fnsl-premiers-pas-2027",
@@ -483,6 +501,20 @@
    "resultsU": "https://app.final-rep.com/"
   },
   {
+   "name": "OSL 5 - UK",
+   "fed": "intl",
+   "start": "2027-06-26",
+   "end": "2027-06-26",
+   "city": "Southampton",
+   "country": "GB",
+   "venue": "Winning Strength Southampton, 12 Park Street, Shirley",
+   "venueU": "https://www.instagram.com/official_streetlifting/reel/DblHMchsFlI/",
+   "conditions": "Ouverte à tous les pays. Au choix : 1, 2 ou 3 mouvements, ou All4.",
+   "conditionsU": "https://www.instagram.com/official_streetlifting/reel/DblHMchsFlI/",
+   "weighIn": "Deux choix : 24 h ou 2 h avant la compétition.",
+   "weighInU": "https://www.instagram.com/official_streetlifting/reel/DblHMchsFlI/"
+  },
+  {
    "osl": "fnsl-master-2027",
    "name": "FNSL Master",
    "fed": "fnsl",
@@ -496,6 +528,20 @@
    "inscription": "1. Prendre l’adhésion FNSL. 2. Remplir le formulaire de qualification, avec vidéos, quand la FNSL l’annonce. Dates pas encore publiées.",
    "results": "En direct dans l’application FinalRep, puis sur OpenStreetlifting après la compétition.",
    "resultsU": "https://app.final-rep.com/"
+  },
+  {
+   "name": "OSL 6 - UK",
+   "fed": "intl",
+   "start": "2027-09-25",
+   "end": "2027-09-25",
+   "city": "Southampton",
+   "country": "GB",
+   "venue": "Winning Strength Southampton, 12 Park Street, Shirley",
+   "venueU": "https://www.instagram.com/official_streetlifting/reel/DblHMchsFlI/",
+   "conditions": "Ouverte à tous les pays. Au choix : 1, 2 ou 3 mouvements, ou All4.",
+   "conditionsU": "https://www.instagram.com/official_streetlifting/reel/DblHMchsFlI/",
+   "weighIn": "Deux choix : 24 h ou 2 h avant la compétition.",
+   "weighInU": "https://www.instagram.com/official_streetlifting/reel/DblHMchsFlI/"
   },
   {
    "osl": "fnsl-nouvelle-generation-2027",
@@ -526,6 +572,20 @@
    "inscription": "1. Prendre l’adhésion FNSL. 2. Remplir le formulaire de qualification, avec vidéos, quand la FNSL l’annonce. Dates pas encore publiées.",
    "results": "En direct dans l’application FinalRep, puis sur OpenStreetlifting après la compétition.",
    "resultsU": "https://app.final-rep.com/"
+  },
+  {
+   "name": "OSL 7 - UK",
+   "fed": "intl",
+   "start": "2027-12-04",
+   "end": "2027-12-04",
+   "city": "Southampton",
+   "country": "GB",
+   "venue": "Winning Strength Southampton, 12 Park Street, Shirley",
+   "venueU": "https://www.instagram.com/official_streetlifting/reel/DblHMchsFlI/",
+   "conditions": "Ouverte à tous les pays. Au choix : 1, 2 ou 3 mouvements, ou All4.",
+   "conditionsU": "https://www.instagram.com/official_streetlifting/reel/DblHMchsFlI/",
+   "weighIn": "Deux choix : 24 h ou 2 h avant la compétition.",
+   "weighInU": "https://www.instagram.com/official_streetlifting/reel/DblHMchsFlI/"
   },
   {
    "osl": "fnsl-only-dips-2027",
