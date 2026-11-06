@@ -114,21 +114,286 @@
    "end": "2026-11-22",
    "city": "Épagny (près d’Annecy)",
    "country": "FR",
-   "venue": "OSKY CrossFit, 130 impasse des Lys, Épagny",
+   "venue": "OSKY CrossFit, 130 impasse des Lys, Épagny (écrit aussi OSKI)",
    "venueU": "https://www.instagram.com/4lift_sl/p/Ddly3MuDaFQ/",
    "url": "https://www.helloasso.com/associations/annecy-street-event/evenements/4lift-2026-plateau-open",
    "regOpen": "2026-09-04",
    "regClose": "2026-10-03",
    "price": "80 € (Open) ; Plateau Élite gratuit, inclus avec la licence FNSL",
-   "inscription": "Inscriptions fermées. Open : ouvert à tous, 40 places Hommes et 10 places Femmes, sur HelloAsso, du 4 septembre au 3 octobre, premier arrivé, premier servi. Élite : réservé au circuit FNSL Élite 2026, candidatures du 1er au 30 août.",
-   "schedule": "Horaires prévisionnels. Samedi : Masters FNSL : pesée 7 h-8 h, début 9 h, fin 12 h 30. Open Femmes et Élite FNSL : pesée Open Femmes 11 h 30-12 h 30, pesée Élite 11 h 45-12 h 45, début 13 h 30, fin 17 h 30, podium 17 h 45. Dimanche : -66, -73 et +87 kg : pesée 6 h-7 h, début 8 h, fin 13 h 30. -80 et -87 kg : pesée 12 h-13 h, début 14 h 15, fin 19 h 30, podium 19 h 45.",
+   "inscription": "Inscriptions fermées : ouvertes du 4 septembre au 3 octobre, premier arrivé, premier servi. Open : ouvert à tous, 40 places Hommes, 10 places Femmes, sur HelloAsso. Les places Hommes sont parties très vite. Le 5 novembre, la page HelloAsso affichait encore l’Open Femme comme disponible : à confirmer à 4lift.contact@gmail.com. Élite : réservé au circuit FNSL Élite 2026, candidatures du 1er au 30 août. Masters : réservé aux 35 ans et plus, sur sélection FNSL.",
+   "schedule": "Horaires prévisionnels. Samedi. Groupe 1, Masters FNSL : pesée 7 h-8 h, échauffement 8 h, briefing 8 h 30-9 h, début 9 h, fin 12 h 30. Groupe 2, Open Femmes et Élite FNSL : pesée Open Femmes 11 h 30-12 h 30, pesée Élite 11 h 45-12 h 45, échauffement 12 h 45-13 h 15, briefing 13 h-13 h 30, début 13 h 30, fin 17 h 30, podium 17 h 45, fin de journée 18 h 15. Dimanche. Groupe 3, -66, -73 et +87 kg : pesée 6 h-7 h, échauffement 7 h, briefing 7 h 30, début 8 h, fin 13 h 30. Groupe 4, -80 kg (groupe B puis A) et -87 kg : pesée 12 h-13 h, échauffement 13 h, prise de réglage 13 h 30, briefing 14 h, début 14 h 15, fin 19 h 30, podium 19 h 45, fin de journée 20 h 15.",
    "scheduleU": "https://www.instagram.com/4lift_sl/p/Ddly3MuDaFQ/",
    "weighIn": "Samedi : Masters 7 h-8 h ; Open Femmes 11 h 30-12 h 30 ; Élite 11 h 45-12 h 45. Dimanche : -66, -73 et +87 kg 6 h-7 h ; -80 et -87 kg 12 h-13 h. Horaires prévisionnels.",
    "weighInU": "https://www.instagram.com/4lift_sl/p/Ddly3MuDaFQ/",
    "conditions": "Organisé par 4LIFT avec la FNSL. Open classé par catégories, Élite classé au RIS sans catégorie de poids. Cette édition ne qualifie pour aucune compétition FNSL en 2027.",
    "conditionsU": "https://www.instagram.com/fnsl__/p/DbVwtxIAiu3/",
    "rules": "Règlement FNSL.",
-   "rulesU": "https://fnsl.fr/reglement"
+   "rulesU": "https://fnsl.fr/reglement",
+   "news": [
+    {
+     "d": "2026-09-22",
+     "t": "Changement de lieu : la compétition quitte Lyon pour Épagny, près d’Annecy. En cas d’annulation à cause de ce changement, remboursement sur demande à 4lift.contact@gmail.com.",
+     "u": "https://www.instagram.com/4lift_sl/p/DdlQun6Dbvq/"
+    }
+   ],
+   "competitors": [
+    {
+     "n": "Louai Lander",
+     "c": "-66 kg"
+    },
+    {
+     "n": "Jérémie Caminade",
+     "c": "-66 kg"
+    },
+    {
+     "n": "Zacharie Duloisy",
+     "c": "-66 kg"
+    },
+    {
+     "n": "Aziz Ben Naceur",
+     "c": "-66 kg"
+    },
+    {
+     "n": "Hugo Le Berre",
+     "c": "-66 kg"
+    },
+    {
+     "n": "Romain Lardin",
+     "c": "-66 kg"
+    },
+    {
+     "n": "Wail Zaalouk",
+     "c": "-66 kg"
+    },
+    {
+     "n": "Xuan Tran",
+     "c": "-66 kg"
+    },
+    {
+     "n": "Axel Marhuenda",
+     "c": "-66 kg"
+    },
+    {
+     "n": "Ly-Thibaut Yauy",
+     "c": "-73 kg"
+    },
+    {
+     "n": "Nathan Verger",
+     "c": "-73 kg"
+    },
+    {
+     "n": "Guillaume Moulliere",
+     "c": "-73 kg"
+    },
+    {
+     "n": "Guillaume Pinchart",
+     "c": "-73 kg"
+    },
+    {
+     "n": "Hugo Bastos",
+     "c": "-73 kg"
+    },
+    {
+     "n": "Lou Verdier",
+     "c": "-73 kg"
+    },
+    {
+     "n": "Yohan Capdeville",
+     "c": "-73 kg"
+    },
+    {
+     "n": "Maxime Gasperin",
+     "c": "-80 kg, groupe A"
+    },
+    {
+     "n": "Remy Cardy",
+     "c": "-80 kg, groupe A"
+    },
+    {
+     "n": "Brendan Meguerditchian",
+     "c": "-80 kg, groupe A"
+    },
+    {
+     "n": "Mathieu Sébastien",
+     "c": "-80 kg, groupe A"
+    },
+    {
+     "n": "Grégory Coste",
+     "c": "-80 kg, groupe A"
+    },
+    {
+     "n": "Joaquim Ribeiro",
+     "c": "-80 kg, groupe A"
+    },
+    {
+     "n": "Amine Atamna",
+     "c": "-80 kg, groupe B"
+    },
+    {
+     "n": "Dianelly Brutus-Toussay",
+     "c": "-80 kg, groupe B"
+    },
+    {
+     "n": "Alexis Bonnaud",
+     "c": "-80 kg, groupe B"
+    },
+    {
+     "n": "Loyan Landes",
+     "c": "-80 kg, groupe B"
+    },
+    {
+     "n": "Enzo Lebarbe",
+     "c": "-80 kg, groupe B"
+    },
+    {
+     "n": "Haytham Amri",
+     "c": "-80 kg, groupe B"
+    },
+    {
+     "n": "Billal Hasniou",
+     "c": "-87 kg"
+    },
+    {
+     "n": "Julien Gautherie",
+     "c": "-87 kg"
+    },
+    {
+     "n": "Andry Rakotojoelina",
+     "c": "-87 kg"
+    },
+    {
+     "n": "Matéo Poirée",
+     "c": "-87 kg"
+    },
+    {
+     "n": "Yann Goimard",
+     "c": "-87 kg"
+    },
+    {
+     "n": "Arno Tousch",
+     "c": "-87 kg"
+    },
+    {
+     "n": "Remus Radu",
+     "c": "-87 kg"
+    },
+    {
+     "n": "Maël Correia",
+     "c": "-87 kg"
+    },
+    {
+     "n": "Thibault Dausque",
+     "c": "-87 kg"
+    },
+    {
+     "n": "Martin Boutry",
+     "c": "-87 kg"
+    },
+    {
+     "n": "Loïck Pipolo",
+     "c": "+87 kg"
+    },
+    {
+     "n": "Adrien Pelfresne",
+     "c": "+87 kg"
+    },
+    {
+     "n": "Jonathan Jacomino",
+     "c": "+87 kg"
+    },
+    {
+     "n": "Marlony Pina Mendes",
+     "c": "+87 kg"
+    },
+    {
+     "n": "Tom Berthier",
+     "c": "+87 kg"
+    },
+    {
+     "n": "Estelle Mousset",
+     "c": "Femmes -57 kg"
+    },
+    {
+     "n": "Cecile Prier",
+     "c": "Femmes -57 kg"
+    },
+    {
+     "n": "Clara Pasquier",
+     "c": "Femmes -57 kg"
+    },
+    {
+     "n": "Elise Cusey",
+     "c": "Femmes -57 kg"
+    },
+    {
+     "n": "Blanche Girard",
+     "c": "Femmes -57 kg"
+    },
+    {
+     "n": "Estelle Bry",
+     "c": "Femmes +57 kg"
+    },
+    {
+     "n": "Aurore Favé",
+     "c": "Femmes +57 kg"
+    },
+    {
+     "n": "Fanny Drapier",
+     "c": "Femmes +57 kg"
+    },
+    {
+     "n": "Anne-Sophie Gheradi",
+     "c": "Élite femmes"
+    },
+    {
+     "n": "Amélia Jezequel",
+     "c": "Élite femmes"
+    },
+    {
+     "n": "Juliette Roux",
+     "c": "Élite femmes"
+    },
+    {
+     "n": "Alix Davy",
+     "c": "Élite hommes"
+    },
+    {
+     "n": "Brahim Donan Claret",
+     "c": "Élite hommes"
+    },
+    {
+     "n": "Max Amblard",
+     "c": "Élite hommes"
+    },
+    {
+     "n": "Georges Louvel",
+     "c": "Élite hommes"
+    },
+    {
+     "n": "Thavisay Chanthaboun",
+     "c": "Élite hommes"
+    },
+    {
+     "n": "Yoann Francius",
+     "c": "Masters -73 kg"
+    },
+    {
+     "n": "Anousone Thirath",
+     "c": "Masters -80 kg"
+    },
+    {
+     "n": "Fabio Abguillerm",
+     "c": "Masters -87 kg"
+    },
+    {
+     "n": "Julian Letestu",
+     "c": "Masters -87 kg"
+    },
+    {
+     "n": "Nicolas Poignant",
+     "c": "Masters -87 kg"
+    }
+   ]
   },
   {
    "name": "Balkan Championship",
