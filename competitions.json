@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-11-06",
+  "updated": "2026-11-07",
   "comps": [
     {
       "name": "FinalRep ASIAS 26",
@@ -24,7 +24,8 @@
       "weighInU": "https://final-rep.com/asias26/",
       "results": "Résultats en direct dans l’application FinalRep (compte gratuit).",
       "resultsU": "https://app.final-rep.com/",
-      "instaU": "https://www.instagram.com/final_rep/"
+      "instaU": "https://www.instagram.com/final_rep/",
+      "liveU": "https://www.youtube.com/@FinalRep/streams"
     },
     {
       "osl": "belgian-streetlifting-championship-2026",
