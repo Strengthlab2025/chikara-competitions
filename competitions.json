@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-15",
+ "updated": "2026-11-16",
  "comps": [
   {
    "name": "FinalRep ASIAS 26",
@@ -88,7 +88,9 @@
    "inscription": "Sur GymSpace.pro, lien dans la présentation du compte Instagram @czechstreetlifting.",
    "conditions": "Formats : All4, Pull & Dip. Pays invités pour le titre d’Europe de l’Est : Tchéquie, Slovaquie, Pologne, Hongrie, Ukraine, Lettonie, Lituanie, Estonie, Russie, Biélorussie. Les autres pays concourent seulement pour le classement général.",
    "conditionsU": "https://www.instagram.com/czechstreetlifting/p/DcTicjXMspa/",
-   "instaU": "https://www.instagram.com/czechstreetlifting/"
+   "instaU": "https://www.instagram.com/czechstreetlifting/",
+   "schedule": "Samedi 21 : ouverture 9 h 10. All4 de 9 h 15 à 13 h 15 (hommes -66, -101 puis -94 kg), puis de 14 h à 18 h (hommes -73 kg, femmes -57, -63, -70 et +70 kg). Dimanche 22 : All4 de 9 h 15 à 13 h 15 (hommes -80, -87, -101 et +101 kg), puis Pull & Dip de 14 h à 17 h (toutes les autres catégories). Fin vers 17 h 30.",
+   "scheduleU": "https://www.instagram.com/czechstreetlifting/p/DfsBnWbiJ_5/"
   },
   {
    "name": "FinalRep AMERICAS 26",
@@ -102,8 +104,8 @@
    "venue": "Kavera Cross, Av. Paraná 3471, Divinópolis (Brésil)",
    "regOpen": "2026-08-03",
    "regClose": "2026-08-16",
-   "schedule": "21 et 22 novembre, de 9 h à 18 h. Programme détaillé sur l’Instagram de l’événement.",
-   "scheduleU": "https://final-rep.com/americs26/",
+   "schedule": "21 et 22 novembre, de 9 h à 18 h. Samedi : hommes -66 et -73 kg, puis hommes -87 et +101 kg avec femmes -52 et -63 kg. Dimanche : hommes -80 kg avec femmes -57 kg, puis hommes -94 et -101 kg avec femmes -70 kg.",
+   "scheduleU": "https://www.instagram.com/brasil.streetlifting/p/DfnTPbCAO21/",
    "conditions": "Sur qualification : les 7 meilleurs de chaque catégorie, avec un total valide sur une compétition qualificative, 2 places par pays et par catégorie au plus.",
    "conditionsU": "https://final-rep.com/americs26/",
    "rules": "Règlement FinalRep.",
@@ -127,7 +129,7 @@
    "regOpen": "2026-09-04",
    "regClose": "2026-10-03",
    "price": "80 € (Open) ; Plateau Élite gratuit, inclus avec la licence FNSL",
-   "inscription": "Inscriptions fermées : ouvertes du 4 septembre au 3 octobre, premier arrivé, premier servi. Open : ouvert à tous, 40 places Hommes, 10 places Femmes, sur HelloAsso. Les places Hommes sont parties très vite. Le 9 novembre, la page HelloAsso affichait encore l’Open Femme comme disponible : à confirmer à 4lift.contact@gmail.com. Élite : réservé au circuit FNSL Élite 2026, candidatures du 1er au 30 août. Masters : réservé aux 35 ans et plus, sur sélection FNSL.",
+   "inscription": "Inscriptions fermées : ouvertes du 4 septembre au 3 octobre, premier arrivé, premier servi. Open : ouvert à tous, 40 places Hommes, 10 places Femmes, sur HelloAsso. Les places Hommes sont parties très vite. Le 16 novembre, la page HelloAsso affichait encore l’Open Femme comme disponible : à confirmer à 4lift.contact@gmail.com. Élite : réservé au circuit FNSL Élite 2026, candidatures du 1er au 30 août. Masters : réservé aux 35 ans et plus, sur sélection FNSL.",
    "schedule": "Samedi (horaires modifiés le 6 novembre). Masters FNSL : pesée, réglages et accueil 9 h-9 h 30, échauffement et briefing 9 h 30-10 h 15, début 10 h 15, fin prévue 13 h 35. Élite FNSL et Open Femmes : pesée, réglages et accueil 12 h-13 h, accès à l’échauffement 14 h 30, début 15 h, fin prévue 18 h 30. Dimanche. Groupe 3, -66, -73 et +87 kg : pesée 6 h-7 h, échauffement 7 h, briefing 7 h 30, début 8 h, fin 13 h 30. Groupe 4, -80 kg (groupe B puis A) et -87 kg : pesée 12 h-13 h, échauffement 13 h, prise de réglage 13 h 30, briefing 14 h, début 14 h 15, fin 19 h 30, podium 19 h 45, fin de journée 20 h 15. Dimanche inchangé.",
    "scheduleU": "https://www.instagram.com/4lift_sl/p/DfZwGEVNkid/",
    "weighIn": "Samedi : Masters 9 h-9 h 30 ; Élite et Open Femmes 12 h-13 h (horaires modifiés le 6 novembre). Dimanche : -66, -73 et +87 kg 6 h-7 h ; -80 et -87 kg 12 h-13 h. Horaires prévisionnels.",
