@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-16",
+ "updated": "2026-11-21",
  "comps": [
   {
    "name": "FinalRep ASIAS 26",
@@ -100,6 +100,7 @@
    "city": "Divinópolis",
    "country": "BR",
    "url": "https://app.final-rep.com/",
+   "liveU": "https://www.youtube.com/@FinalRep",
    "inscription": "Dans l’application FinalRep. Candidature du 3 au 16 août 2026, paiement du 3 au 22 août 2026. Inscriptions terminées.",
    "venue": "Kavera Cross, Av. Paraná 3471, Divinópolis (Brésil)",
    "regOpen": "2026-08-03",
