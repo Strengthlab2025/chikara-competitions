@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-21",
+ "updated": "2026-11-23",
  "comps": [
   {
    "name": "FinalRep ASIAS 26",
@@ -483,15 +483,26 @@
    "name": "BSLC Rookie",
    "fed": "intl",
    "start": "2026-12-05",
-   "end": "2026-12-06",
+   "end": "2026-12-05",
    "city": "Auderghem",
    "country": "BE",
    "venue": "1682 Chaussée de Wavre, 1160 Auderghem",
    "price": "35 € (entrée du public : 2 €)",
    "inscription": "Lien dans la présentation des comptes Instagram @akuma.community et @bslc._.",
-   "conditions": "Ouverte à ceux qui ne sont pas qualifiés pour les championnats de Belgique, aux débutants et aux anciens compétiteurs. Tout peut être regroupé le dimanche 6 décembre selon le nombre d’inscrits.",
+   "conditions": "Ouverte à ceux qui ne sont pas qualifiés pour les championnats de Belgique, aux débutants et aux anciens compétiteurs.",
    "conditionsU": "https://www.instagram.com/club.akuma/p/Dd_qoq7jaRP/",
-   "instaU": "https://www.instagram.com/bslc._/"
+   "instaU": "https://www.instagram.com/bslc._/",
+   "schedule": "Tout le samedi 5 décembre. Matin (groupes 1 et 2, hommes -66, -80, -87 et -101 kg) : 9 h-14 h 05, podiums 14 h 05. Après-midi (groupes 3 et 4, hommes -73 kg et femmes -52, -57, -63 et -70 kg) : 14 h 30-19 h 35, podiums vers 19 h 35. Ordre : muscle-up, traction, dips, squat.",
+   "scheduleU": "https://www.instagram.com/bslc._/p/Df_29G0kSYc/",
+   "weighIn": "Groupes 1 et 2 : samedi 7 h-9 h. Groupes 3 et 4 : samedi 12 h 30-14 h 30.",
+   "weighInU": "https://www.instagram.com/bslc._/p/Df_29G0kSYc/",
+   "news": [
+    {
+     "d": "2026-11-19",
+     "t": "Liste des athlètes et horaires publiés : toute la compétition a lieu le samedi 5 décembre (pas de dimanche). Pesée à 7 h pour le matin, à 12 h 30 pour l’après-midi.",
+     "u": "https://www.instagram.com/bslc._/p/Df_29G0kSYc/"
+    }
+   ]
   },
   {
    "name": "FNSL PU/SQUAT ONLY",
@@ -504,10 +515,22 @@
    "price": "Adhésion FNSL athlète : 150 €/an (coach : 30 €/an)",
    "conditions": "Licence FNSL valide obligatoire pour l’année (adhésion athlète). Qualification sur formulaire et vidéos, selon les meilleurs totaux et les places de la catégorie.",
    "conditionsU": "https://fnsl.fr/reglement",
-   "inscription": "1. Prendre l’adhésion FNSL. 2. Remplir le formulaire de qualification, avec vidéos, quand la FNSL l’annonce. Dates pas encore publiées.",
+   "inscription": "Sélection terminée : la FNSL a publié la liste des athlètes retenus (squat le 17 novembre : 26 athlètes ; traction le 19 novembre : 50 athlètes).",
    "results": "En direct dans l’application FinalRep, puis sur OpenStreetlifting après la compétition.",
    "resultsU": "https://app.final-rep.com/",
-   "instaU": "https://www.instagram.com/fnsl__/"
+   "instaU": "https://www.instagram.com/fnsl__/",
+   "news": [
+    {
+     "d": "2026-11-17",
+     "t": "Squat Only : 26 athlètes sélectionnés (16 hommes, 10 femmes). Liste par catégorie sur le compte Instagram de la FNSL.",
+     "u": "https://www.instagram.com/fnsl__/p/Df2za2QjvSG/"
+    },
+    {
+     "d": "2026-11-19",
+     "t": "Pull-up Only : 50 athlètes sélectionnés (38 hommes, 12 femmes). Liste par catégorie sur le compte Instagram de la FNSL.",
+     "u": "https://www.instagram.com/fnsl__/p/Df6sZqMji2A/"
+    }
+   ]
   },
   {
    "osl": "fnsl-regionale-auvergne-rhone-alpes-2027",
